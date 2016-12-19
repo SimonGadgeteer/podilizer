@@ -1,5 +1,5 @@
-path:                   # the path of project to be translated. Example: 'path: /etc/username/ProjectName'
-newPath:                # the path for new translated project created by tool. Example: 'newPath: /etc/username/NewProjectName'.
+path:                   /Users/simon/podilizer/kvstore
+newPath:                /Users/simon/podilizer/result
                         # If such folder is already exists, it will be deleted.
 
 awsRegion:              # the AWS awsRegion for created Lambda functions. Example: 'awsRegion: eu-west-2'
